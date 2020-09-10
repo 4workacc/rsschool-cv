@@ -1,10 +1,10 @@
 1. Yauheni Svirbutovich
-2. E-mail:4workacc@gmail.com
-3. Found of programming
-4. Programming:
-  * JavaScript;
-  * C#;
-5. https://github.com/4workacc/
-6. Some personal projects;
-7. Hexlet;
-8. English: reading & speaking;
+1. E-mail:4workacc@gmail.com
+1. Some word about myself: Found of programming
+1. Programming skills:
+   * JavaScript
+   * C#
+1. Code examples: https://github.com/4workacc/
+1. Some personal projects;
+1. Study: Hexlet;
+1. English: reading & speaking;
